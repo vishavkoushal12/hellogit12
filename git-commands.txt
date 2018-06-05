@@ -9,3 +9,5 @@ git remote
 To connect a local repository with a remote repository. 
 git push
 Sends local commits to the remote repository.
+git remove
+Remove files or directories from the working index (staging area).
